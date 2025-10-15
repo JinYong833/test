@@ -1,6 +1,7 @@
 package com.test.course.spec.rebuid;
 
-import com.lms.domain.course.spec.creation.CreateSection;
+
+import com.test.course.spec.creation.CreateSection;
 
 import java.time.LocalDateTime;
 import java.util.List;

@@ -1,7 +1,8 @@
 package com.test.course;
 
-import com.lms.domain.course.spec.creation.CreateContent;
-import com.lms.domain.course.spec.rebuid.RebuildContent;
+
+import com.test.course.spec.creation.CreateContent;
+import com.test.course.spec.rebuid.RebuildContent;
 import lombok.Getter;
 
 @Getter
